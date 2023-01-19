@@ -1,4 +1,4 @@
-package com.example.a20221227_ryanriley_nycschools.presentation;
+package com.example.a20230119_ryanriley_nycschools.presentation;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,9 +11,9 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.a20221227_ryanriley_nycschools.R;
-import com.example.a20221227_ryanriley_nycschools.presentation.viewmodel.SchoolViewModel;
-import com.example.a20221227_ryanriley_nycschools.domain.model.SATResult;
+import com.example.a20230119_ryanriley_nycschools.R;
+import com.example.a20230119_ryanriley_nycschools.presentation.viewmodel.SchoolViewModel;
+import com.example.a20230119_ryanriley_nycschools.domain.model.SATResult;
 
 import java.util.List;
 

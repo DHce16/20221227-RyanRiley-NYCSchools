@@ -1,8 +1,8 @@
-package com.example.a20221227_ryanriley_nycschools.data.data_source
+package com.example.a20230119_ryanriley_nycschools.data.data_source
 
 import androidx.room.Dao
 import androidx.room.Query
-import com.example.a20221227_ryanriley_nycschools.domain.model.School
+import com.example.a20230119_ryanriley_nycschools.domain.model.School
 import kotlinx.coroutines.flow.Flow
 
 @Dao

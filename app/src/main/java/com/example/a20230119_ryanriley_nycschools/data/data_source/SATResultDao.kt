@@ -1,8 +1,8 @@
-package com.example.a20221227_ryanriley_nycschools.data.data_source
+package com.example.a20230119_ryanriley_nycschools.data.data_source
 
 import androidx.room.Query
 import kotlinx.coroutines.flow.Flow
-import com.example.a20221227_ryanriley_nycschools.domain.model.SATResult
+import com.example.a20230119_ryanriley_nycschools.domain.model.SATResult
 
 interface SatResultDao {
     @Query("SELECT * FROM sat_result")

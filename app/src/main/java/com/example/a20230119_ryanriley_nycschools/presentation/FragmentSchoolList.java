@@ -1,4 +1,4 @@
-package com.example.a20221227_ryanriley_nycschools.presentation;
+package com.example.a20230119_ryanriley_nycschools.presentation;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -13,10 +13,10 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.a20221227_ryanriley_nycschools.R;
-import com.example.a20221227_ryanriley_nycschools.domain.model.School;
-import com.example.a20221227_ryanriley_nycschools.presentation.adapter.SchoolListAdapter;
-import com.example.a20221227_ryanriley_nycschools.presentation.viewmodel.SchoolViewModel;
+import com.example.a20230119_ryanriley_nycschools.R;
+import com.example.a20230119_ryanriley_nycschools.domain.model.School;
+import com.example.a20230119_ryanriley_nycschools.presentation.adapter.SchoolListAdapter;
+import com.example.a20230119_ryanriley_nycschools.presentation.viewmodel.SchoolViewModel;
 
 import java.util.List;
 

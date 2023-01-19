@@ -1,4 +1,4 @@
-package com.example.a20221227_ryanriley_nycschools.domain.model
+package com.example.a20230119_ryanriley_nycschools.domain.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

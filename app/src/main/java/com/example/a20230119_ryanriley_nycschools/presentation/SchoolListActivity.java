@@ -1,10 +1,10 @@
-package com.example.a20221227_ryanriley_nycschools.presentation;
+package com.example.a20230119_ryanriley_nycschools.presentation;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentContainerView;
-import com.example.a20221227_ryanriley_nycschools.R;
+import com.example.a20230119_ryanriley_nycschools.R;
 
 public class SchoolListActivity extends AppCompatActivity {
 

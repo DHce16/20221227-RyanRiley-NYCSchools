@@ -1,14 +1,14 @@
-package com.example.a20221227_ryanriley_nycschools.presentation.viewmodel;
+package com.example.a20230119_ryanriley_nycschools.presentation.viewmodel;
 
 import android.util.Log;
 
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-import com.example.a20221227_ryanriley_nycschools.data.data_source.network.APIService;
-import com.example.a20221227_ryanriley_nycschools.data.data_source.network.RetrofitInstance;
-import com.example.a20221227_ryanriley_nycschools.domain.model.SATResult;
-import com.example.a20221227_ryanriley_nycschools.domain.model.School;
+import com.example.a20230119_ryanriley_nycschools.data.data_source.network.APIService;
+import com.example.a20230119_ryanriley_nycschools.data.data_source.network.RetrofitInstance;
+import com.example.a20230119_ryanriley_nycschools.domain.model.SATResult;
+import com.example.a20230119_ryanriley_nycschools.domain.model.School;
 
 import java.util.List;
 

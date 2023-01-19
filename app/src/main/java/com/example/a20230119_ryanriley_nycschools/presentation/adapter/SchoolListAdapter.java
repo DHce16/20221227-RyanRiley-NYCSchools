@@ -1,4 +1,4 @@
-package com.example.a20221227_ryanriley_nycschools.presentation.adapter;
+package com.example.a20230119_ryanriley_nycschools.presentation.adapter;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -10,10 +10,10 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.a20221227_ryanriley_nycschools.domain.model.School;
-import com.example.a20221227_ryanriley_nycschools.presentation.FragmentSchoolDetail;
-import com.example.a20221227_ryanriley_nycschools.R;
-import com.example.a20221227_ryanriley_nycschools.presentation.SchoolListActivity;
+import com.example.a20230119_ryanriley_nycschools.domain.model.School;
+import com.example.a20230119_ryanriley_nycschools.presentation.FragmentSchoolDetail;
+import com.example.a20230119_ryanriley_nycschools.R;
+import com.example.a20230119_ryanriley_nycschools.presentation.SchoolListActivity;
 
 import java.util.List;
 
